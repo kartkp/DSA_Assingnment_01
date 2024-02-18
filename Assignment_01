@@ -60,7 +60,7 @@ public class Main {
         Stack stack = new Stack();
 
         while (true) {
-            System.out.println("\nChoose an operation:");
+            System.out.println("\nChoose an operation:\n");
             System.out.println("1. Add a student to stack");
             System.out.println("2. Remove a student from stack");
             System.out.println("3. Display all students");
