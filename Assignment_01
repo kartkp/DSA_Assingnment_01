@@ -3,7 +3,6 @@ class Node {
     String name;
     int marks;
     Node next;
-
     Node(String name, int marks) {
         this.name = name;
         this.marks = marks;
