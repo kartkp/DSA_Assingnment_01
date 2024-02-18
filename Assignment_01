@@ -90,7 +90,7 @@ public class Main {
                     break;
 
                 default:
-                    System.out.println("Exiting program.");
+                    System.out.println("Exiting program thank you Kartik!! ");
                     scanner.close();
                     System.exit(0);
             }
